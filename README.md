@@ -11,14 +11,12 @@ This project aims to build a strong foundation in React’s core concepts throug
 ---
 
 ## Brief Description
-A simple React counter app demonstrating state management, event handling, and conditional rendering.  
-Includes customizable step size, upper/lower bounds, option to allow/disallow negative values, and `localStorage` persistence.
-
+A React Counter App is a small application that displays a number (the count) and lets the user increase, decrease, or reset it.
 ---
 
 ## Links
 - **GitHub Repository:** https://github.com/jyothshna16/React-Counter-App.git
-- **Live Demo:** https://react-counter-app-myproject.netlify.app/
+- **Live Demo:** https://counter-app-my-project.netlify.app/
 
 ---
 
